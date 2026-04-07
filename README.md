@@ -1,11 +1,7 @@
 ## Hi there 👋
 
-I mainly work with AI using the CrewAI infrastructure
+I am a programmer and mainly work with AI using the CrewAI infrastructure. I use C# for most coding projects, but use python for AI related projects.
 <!--
-**Josephcc2/Josephcc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
