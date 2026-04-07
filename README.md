@@ -2,6 +2,7 @@
 
 I am a programmer and mainly work with AI using the CrewAI infrastructure. I use C# for most coding projects, but use python for AI related projects.
 
+
 📂 **PROJECTS**
 
 Email Sender Crew - AI Agents work together using CrewAI to automate sending emails to known people, given a period of unavailability
