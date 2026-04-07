@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I mainly work with AI using the CrewAI infrastructure
 <!--
 **Josephcc2/Josephcc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
