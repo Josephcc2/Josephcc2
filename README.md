@@ -8,6 +8,8 @@ I am a programmer and mainly work with AI using the CrewAI infrastructure. I use
 Email Sender Crew - AI Agents work together using CrewAI to automate sending emails to known people, given a period of unavailability
 
 Crew Council - 4 LLMs work together to generate a report based off of scientific papers without hallucinations
+
+AI Assistant - An assistant that lives in your computer which can remember and dynamically create and read files
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
