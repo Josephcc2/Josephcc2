@@ -12,7 +12,7 @@ I am a programmer and mainly work with AI using the CrewAI infrastructure. I use
 
 ---
 
-### 📂 PROJECTS
+###📂 PROJECTS
 
 Email Sender Crew - AI Agents work together using CrewAI to automate sending emails to known people, given a period of unavailability
 
