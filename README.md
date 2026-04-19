@@ -14,7 +14,7 @@ I am a programmer and mainly work with AI using the CrewAI infrastructure. I use
 
 ### 📂 PROJECTS
 
-Email Sender Crew - AI Agents work together using CrewAI to automate send emails to known people, given a period of unavailability
+Email Sender Crew - AI Agents work together using CrewAI to automate sending emails to known people, given a period of unavailability
 
 Crew Council - 4 LLMs work together to generate a report based off of scientific papers without hallucinations
 
