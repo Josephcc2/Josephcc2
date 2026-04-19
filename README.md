@@ -6,7 +6,7 @@ I am a programmer and mainly work with AI using the CrewAI infrastructure. I use
 - 🌱 I’m currently learning more about AI structures and APIs
 - 🤔 I’m looking for help with setting up local AI models such as Gemma 4
 - 📫 How to reach me: 🕹️ Discord - CamelSaturn
-- 🌏 My time zone is 🕗EST
+- 🌏 My time zone is `🕗EST`
 - ⚡ Fun fact: I have been programming in C# for 5 years!
 
 ---
