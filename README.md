@@ -2,7 +2,7 @@
 
 I am a programmer and mainly work with AI using the CrewAI infrastructure. I use C# for most coding projects, but use python for AI related projects.
 
-- 🔭 I’m currently working on an AI assistant that lives in the user's computer
+- 🔭 I’m currently working on an Agentic AI assistant that lives in the user's computer
 - 🌱 I’m currently learning more about AI structures and APIs
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with setting up local AI models such as Gemma 4
