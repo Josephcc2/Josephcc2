@@ -6,7 +6,7 @@ I am a programmer and mainly work with AI using the CrewAI infrastructure. I use
 - 🌱 I’m currently learning more about AI structures and APIs
 - 📫 How to reach me: 🕹️ Discord - CamelSaturn
 - 🌏 My time zone is `🕗EST/UTC-5`
-- ⚡ Fun fact: I have been programming in C# for 5 years!
+- ⚡ Fun fact: I have been programming in C# for over 6 years!
 
 ---
 
